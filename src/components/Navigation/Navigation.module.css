@@ -1,0 +1,13 @@
+.navigation {
+  display: flex;
+  gap: 30px;
+}
+
+.link {
+  display: inline-block;
+  text-decoration: none;
+  padding: 12px;
+  font-weight: 700;
+  font-size: 24px;
+  color: #ffffff;
+}
